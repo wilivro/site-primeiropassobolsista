@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+	#texto_conteudo{position:relative;}
+	.tit_texto_conteudo{
+		/*font-family: Helvetica;*/
+		font-style:italic;
+		font-weight:bold;
+		font-size:21px;
+		color:#99CC00;
+	}
+	.texto_texto_conteudo{
+		padding-left:16px;
+		line-height:18px;
+		/*font-family: Verdana;*/
+		font-style:normal;
+		text-align:justify;
+		/*width:450px;*/
+		/*font-size:11px;*/
+		color:#000000;
+	}
+	.border{
+		text-align:center;
+		border:solid 1px #CCCCCC;
+		
+		/*font-family: Verdana;*/
+		font-style:normal;
+		
+		font-size:10px;
+		color:#006600;
+		width:100%;
+	}
+	.border2{
+		text-align:center;
+		border:solid 1px #CCCCCC;
+		
+		/*font-family: Verdana;*/
+		font-style:normal;
+		
+		font-size:10px;
+		color:#666666;
+	}
+	#win_windows_a, #win_word_a, #win_internet_a, #win_let_digital_a, #win_cidadania_a, #win_prep_emp_a{ color:#006600; font-weight:bold; font-size:12px;}
+	#seta_cur{ font-size:16px; color:#006600;}

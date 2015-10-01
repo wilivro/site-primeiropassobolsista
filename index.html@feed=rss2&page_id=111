@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Arquivo de Notícias</title>
+	<atom:link href="http://primeiropassobolsista.com.br/?feed=rss2&#038;page_id=111" rel="self" type="application/rss+xml" />
+	<link>http://primeiropassobolsista.com.br</link>
+	<description></description>
+	<lastBuildDate>Tue, 05 Jul 2011 15:57:49 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>By: marcilio</title>
+		<link>http://primeiropassobolsista.com.br/?page_id=111&#038;cpage=1#comment-67</link>
+		<dc:creator><![CDATA[marcilio]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2010 13:11:09 +0000</pubDate>
+		<guid isPermaLink="false">http://primeiropassobolsista.com.br/?page_id=111#comment-67</guid>
+		<description><![CDATA[Excelente]]></description>
+		<content:encoded><![CDATA[<p>Excelente</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Primeiro Passo</title>
+	<atom:link href="http://primeiropassobolsista.com.br/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://primeiropassobolsista.com.br</link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Jun 2014 12:48:05 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>http://primeiropassobolsista.com.br/?p=1</link>
+		<comments>http://primeiropassobolsista.com.br/?p=1#comments</comments>
+		<pubDate>Mon, 22 Jun 2009 19:19:51 +0000</pubDate>
+		<dc:creator><![CDATA[Administrador]]></dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
+
+		<guid isPermaLink="false">http://primeiropassobolsista.com.br/?p=1</guid>
+		<description><![CDATA[Bem-vindo ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e aí comece a brincadeira!]]></description>
+				<content:encoded><![CDATA[<p>Bem-vindo ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e aí comece a brincadeira!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://primeiropassobolsista.com.br/?feed=rss2&#038;p=1</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
