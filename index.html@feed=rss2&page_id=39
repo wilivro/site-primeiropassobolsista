@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Arquivo de Enquetes</title>
+	<atom:link href="http://primeiropassobolsista.com.br/?feed=rss2&#038;page_id=39" rel="self" type="application/rss+xml" />
+	<link>http://primeiropassobolsista.com.br</link>
+	<description></description>
+	<lastBuildDate>Tue, 05 Jul 2011 15:57:49 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>By: francisco josé</title>
+		<link>http://primeiropassobolsista.com.br/?page_id=39&#038;cpage=1#comment-3</link>
+		<dc:creator><![CDATA[francisco josé]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2009 16:29:23 +0000</pubDate>
+		<guid isPermaLink="false">http://primeiropassobolsista.com.br/?page_id=39#comment-3</guid>
+		<description><![CDATA[Excelentes]]></description>
+		<content:encoded><![CDATA[<p>Excelentes</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Elane</title>
+		<link>http://primeiropassobolsista.com.br/?page_id=39&#038;cpage=1#comment-2</link>
+		<dc:creator><![CDATA[Elane]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2009 16:29:04 +0000</pubDate>
+		<guid isPermaLink="false">http://primeiropassobolsista.com.br/?page_id=39#comment-2</guid>
+		<description><![CDATA[é muito bom eu estou gostando muito.]]></description>
+		<content:encoded><![CDATA[<p>é muito bom eu estou gostando muito.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
